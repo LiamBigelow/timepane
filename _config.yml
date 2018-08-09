@@ -1,0 +1,10 @@
+title: Time Pane
+email: liam@bigelow.io
+description: >- 
+  Toggl Dashboard
+baseurl: "" 
+url: "https://time.bigelow.io" 
+twitter_username: LiamBigelow
+github_username:  LiamBigelow
+
+markdown: kramdown
